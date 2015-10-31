@@ -1,0 +1,23 @@
+name: SoCal.. SoFar
+favicon: null
+layout_spectrum: 0.6269886419177055
+typography_spectrum: 0.3250133544206619
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9667430319823325
+  lightness: 0.7378743225708604
+  saturation: 0.1575335138477385
+  rhythmicContrast: 0.29524061898700893
+purpose: []
