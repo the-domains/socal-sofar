@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 20:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 20:18:05 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#bottegalouie ]]></title>
+            <description><![CDATA[<article><h1>#bottegalouie </h1><img src="https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xap1/t51.2885-15/e15/1171951_245578732272873_1434099445_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/ifvkAHvRYl/?taken-by=iade.c</link>
+            <guid isPermaLink="false">480569c3-d054-43d4-b144-0cdbb564c7ac</guid>
+            <pubDate>Sat, 31 Oct 2015 20:17:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#empty]]></title>
             <description><![CDATA[<article><h1>#empty</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/10724091_767252556656113_99371013_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/4Jj7Z8vRW3/?taken-by=iade.c</link>
             <guid isPermaLink="false">61a611a4-3c7d-4354-b9a5-84b88cf70d3d</guid>
             <pubDate>Sat, 31 Oct 2015 20:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Umm added comments to a new menu concept.. ]]></title>
-            <description><![CDATA[<article><h1>Umm added comments to a new menu concept.. </h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11325242_818929598190136_1636353425_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/3Swi90PRQl/?taken-by=iade.c</link>
-            <guid isPermaLink="false">228073be-d327-4a4d-bd50-aa284f7b77bd</guid>
-            <pubDate>Sat, 31 Oct 2015 20:11:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
