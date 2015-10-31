@@ -7,7 +7,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: 'http://www.socalsofar.com'
   facebook: null
   twitter: null
 opengraph:
