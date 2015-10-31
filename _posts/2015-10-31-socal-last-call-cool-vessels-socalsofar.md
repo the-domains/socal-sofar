@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:24:36.120Z'
-dateModified: '2015-10-31T19:24:31.365Z'
+datePublished: '2015-10-31T20:12:28.522Z'
+dateModified: '2015-10-31T20:12:25.980Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'SoCal last call.. cool vessels.. #SoCalSoFar'
+title: 'SoCal last call.. cool vessels.. '
 sourcePath: _posts/2015-10-31-socal-last-call-cool-vessels-socalsofar.md
 published: true
 authors: []
