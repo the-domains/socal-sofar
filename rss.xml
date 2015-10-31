@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 20:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 20:06:00 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#bottegalouie #needtiramisu]]></title>
+            <description><![CDATA[<article><h1>#bottegalouie #needtiramisu</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1515630_436905983098834_1456161412_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/ift9wQPRXI/?taken-by=iade.c</link>
+            <guid isPermaLink="false">110f310d-570e-4193-8b89-1005ff0ffef3</guid>
+            <pubDate>Sat, 31 Oct 2015 20:05:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#bottegalouie]]></title>
             <description><![CDATA[<article><h1>#bottegalouie</h1><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/1530783_620142254688242_57127495_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/0MeG5UvRVZ/?taken-by=iade.c</link>
             <guid isPermaLink="false">0cf37353-2245-4e6b-ace8-83fd9ff53b95</guid>
             <pubDate>Sat, 31 Oct 2015 19:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instagram photo by adec * Mar 12, 2015 at 1:57am UTC]]></title>
-            <description><![CDATA[<article><h1>Instagram photo by adec * Mar 12, 2015 at 1:57am UTC</h1><p>Sur #vanderpumprules</p><img src="https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11005239_1590286421186148_60777930_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/0HCqfOvRVy/?taken-by=iade.c</link>
-            <guid isPermaLink="false">d745b102-e97f-4387-842c-dc49726dfc81</guid>
-            <pubDate>Sat, 31 Oct 2015 19:23:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
