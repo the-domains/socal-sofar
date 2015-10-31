@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:24:57.633Z'
-dateModified: '2015-10-31T19:24:54.790Z'
+datePublished: '2015-10-31T20:12:03.459Z'
+dateModified: '2015-10-31T20:12:00.746Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'SoCal ., #SoCalSoFar'
+title: 'SoCal .. #SoCalSoFar'
 sourcePath: _posts/2015-10-31-socal--socalsofar.md
 published: true
 authors: []
