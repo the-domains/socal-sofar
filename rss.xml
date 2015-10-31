@@ -4,15 +4,8 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 20:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 20:18:31 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[#333]]></title>
-            <description><![CDATA[<article><h1>#333</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1538523_1377230655855748_2035237797_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/idD3-cPRRB/?taken-by=iade.c</link>
-            <guid isPermaLink="false">1706366b-599e-4c44-8698-d396e15d9bd1</guid>
-            <pubDate>Sat, 31 Oct 2015 20:18:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[#bottegalouie ]]></title>
             <description><![CDATA[<article><h1>#bottegalouie </h1><img src="https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xap1/t51.2885-15/e15/1171951_245578732272873_1434099445_n.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://instagram.com/p/4f3xKIvRfs/?taken-by=iade.c</link>
             <guid isPermaLink="false">b091c7fc-4883-4b89-9cae-401660451475</guid>
             <pubDate>Sat, 31 Oct 2015 20:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anyone for coffee??]]></title>
+            <description><![CDATA[<article><h1>Anyone for coffee??</h1><p>Anyone for coffee?? </p><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357521_1418605328466526_1358938993_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/4Jj7Z8vRW3/?taken-by=iade.c</link>
+            <guid isPermaLink="false">61a611a4-3c7d-4354-b9a5-84b88cf70d3d</guid>
+            <pubDate>Sat, 31 Oct 2015 20:11:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
