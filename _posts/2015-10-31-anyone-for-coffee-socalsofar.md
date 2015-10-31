@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:25:49.304Z'
-dateModified: '2015-10-31T19:25:41.812Z'
+datePublished: '2015-10-31T20:10:37.769Z'
+dateModified: '2015-10-31T20:10:35.219Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Anyone for coffee?? #SoCalSoFar'
+title: Anyone for coffee??
 sourcePath: _posts/2015-10-31-anyone-for-coffee-socalsofar.md
 published: true
 authors: []
