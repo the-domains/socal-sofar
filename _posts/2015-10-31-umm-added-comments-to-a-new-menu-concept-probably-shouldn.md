@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:25:25.813Z'
-dateModified: '2015-10-31T19:25:22.593Z'
+datePublished: '2015-10-31T20:11:36.308Z'
+dateModified: '2015-10-31T20:11:33.718Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: "Umm added comments to a new menu concept.. probably shouldn't have lol! #SoCalSoFar"
+title: 'Umm added comments to a new menu concept.. '
 sourcePath: _posts/2015-10-31-umm-added-comments-to-a-new-menu-concept-probably-shouldn.md
 published: true
 authors: []
