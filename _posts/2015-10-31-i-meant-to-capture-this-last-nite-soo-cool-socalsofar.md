@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:26:07.025Z'
-dateModified: '2015-10-31T19:26:04.332Z'
+datePublished: '2015-10-31T20:10:05.012Z'
+dateModified: '2015-10-31T20:10:01.157Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'I meant to capture this last nite.. soo cool.. #SoCalSoFar'
+title: 'I meant to capture this last nite.. soo cool.. '
 sourcePath: _posts/2015-10-31-i-meant-to-capture-this-last-nite-soo-cool-socalsofar.md
 published: true
 authors: []
