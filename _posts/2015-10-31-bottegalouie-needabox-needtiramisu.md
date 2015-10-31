@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:13:58.024Z'
-dateModified: '2015-10-31T19:13:54.586Z'
+datePublished: '2015-10-31T20:05:59.109Z'
+dateModified: '2015-10-31T20:05:52.624Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: '#bottegalouie #needabox #needtiramisu'
+title: '#bottegalouie #needtiramisu'
 sourcePath: _posts/2015-10-31-bottegalouie-needabox-needtiramisu.md
 published: true
 authors: []
