@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T20:12:28.522Z'
-dateModified: '2015-10-31T20:12:25.980Z'
+datePublished: '2015-10-31T20:13:30.769Z'
+dateModified: '2015-10-31T20:13:27.711Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![SoCal last call.. cool vessels.. #SoCalSoFar](https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11142361_344668489073951_1273081162_n.jpg)
+![SoCal last call.. cool vessels.. ](https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11142361_344668489073951_1273081162_n.jpg)
