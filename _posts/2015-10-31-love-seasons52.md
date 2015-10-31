@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/h2gTu9PRRN/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-31T19:12:54.084Z'
-dateModified: '2015-10-31T19:12:50.845Z'
+description: 'One of my fave restaurants just for casually eating.. #neverfailstoimpress'
+datePublished: '2015-10-31T20:19:35.184Z'
+dateModified: '2015-10-31T20:19:31.702Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
