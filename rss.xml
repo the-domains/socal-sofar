@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 19:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 19:24:46 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Instagram photo by adec * Mar 12, 2015 at 1:57am UTC]]></title>
+            <description><![CDATA[<article><h1>Instagram photo by adec * Mar 12, 2015 at 1:57am UTC</h1><p>Sur #vanderpumprules</p><img src="https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11005239_1590286421186148_60777930_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/0HCqfOvRVy/?taken-by=iade.c</link>
+            <guid isPermaLink="false">d745b102-e97f-4387-842c-dc49726dfc81</guid>
+            <pubDate>Sat, 31 Oct 2015 19:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#333]]></title>
             <description><![CDATA[<article><h1>#333</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1538523_1377230655855748_2035237797_n.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>SoCal last call.. cool vessels.. #SoCalSoFar</h1><img src="https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11142361_344668489073951_1273081162_n.jpg"></article>]]></description>
             <link>https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c</link>
             <guid isPermaLink="false">8b994a7f-5f16-4f5a-86d8-f1baab6d4de6</guid>
-            <pubDate>Sat, 31 Oct 2015 18:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#charliepalmers]]></title>
-            <description><![CDATA[<article><h1>#charliepalmers</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11055722_1608666519347226_555635429_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/0hcGBmvRf0/?taken-by=iade.c</link>
-            <guid isPermaLink="false">5cd82c05-289b-469a-8512-13de93253b60</guid>
             <pubDate>Sat, 31 Oct 2015 18:57:39 GMT</pubDate>
         </item>
     </channel>
