@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:21:51.119Z'
-dateModified: '2015-10-31T19:21:46.380Z'
+datePublished: '2015-10-31T20:16:35.877Z'
+dateModified: '2015-10-31T20:16:33.174Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Instagram photo by adec * Oct 11, 2014 at 8:51pm UTC'
+title: '#empty'
 sourcePath: _posts/2015-10-31-instagram-photo-by-adec-oct-11-2014-at-851pm-utc.md
 published: true
 authors: []
