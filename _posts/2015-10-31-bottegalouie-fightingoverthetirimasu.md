@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:14:34.547Z'
-dateModified: '2015-10-31T19:14:30.698Z'
+datePublished: '2015-10-31T20:17:05.944Z'
+dateModified: '2015-10-31T20:17:03.801Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: '#bottegalouie #fightingoverthetirimasu'
+title: '#bottegalouie '
 sourcePath: _posts/2015-10-31-bottegalouie-fightingoverthetirimasu.md
 published: true
 authors: []
