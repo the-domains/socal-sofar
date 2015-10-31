@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 20:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 20:17:02 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LA - Downtown]]></title>
+            <description><![CDATA[<article><h1>LA - Downtown</h1><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/917186_369835539858152_395441782_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/uCRRxgPRXH/?taken-by=iade.c</link>
+            <guid isPermaLink="false">32358bf3-a14b-4140-9fbd-8e8b7ed0b239</guid>
+            <pubDate>Sat, 31 Oct 2015 20:16:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SoCal]]></title>
             <description><![CDATA[<article><h1>SoCal</h1><img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10986207_617239741739862_429175071_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/2fK3DWvRTk/?taken-by=iade.c</link>
             <guid isPermaLink="false">7ed9b14e-350b-4a18-9ef7-e14864d20abf</guid>
             <pubDate>Sat, 31 Oct 2015 20:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SoCal last call.. cool vessels.. ]]></title>
-            <description><![CDATA[<article><h1>SoCal last call.. cool vessels.. </h1><img src="https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11142361_344668489073951_1273081162_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c</link>
-            <guid isPermaLink="false">8b994a7f-5f16-4f5a-86d8-f1baab6d4de6</guid>
-            <pubDate>Sat, 31 Oct 2015 20:13:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
