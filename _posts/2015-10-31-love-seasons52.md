@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://instagram.com/p/h2gTu9PRRN/?taken-by=iade.c'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-10-31T19:07:10.468Z'
+dateModified: '2015-10-31T19:07:01.184Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
     avatar: {}
 related: []
-publisher:
-  url: 'https://instagram.com/'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/64b94d2/images/ico/favicon.ico'
-  domain: instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=609816893133231181'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://instagram.com/p/h2gTu9PRRN/?taken-by=iade.c'
 title: 'Love #Seasons52'
-datePublished: '2015-10-31T18:57:50.350Z'
-dateModified: '2015-10-31T18:50:05.405Z'
 sourcePath: _posts/2015-10-31-love-seasons52.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: instagram.com
+  url: 'https://instagram.com/'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/64b94d2/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Love &num;Seasons52](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11372249_841847089218047_1153893392_n.jpg)
+![Love #Seasons52](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11372249_841847089218047_1153893392_n.jpg)
