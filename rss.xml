@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 18:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 18:58:28 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SoCal last call.. cool vessels.. #SoCalSoFar]]></title>
+            <description><![CDATA[<article><h1>SoCal last call.. cool vessels.. #SoCalSoFar</h1><img src="https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11142361_344668489073951_1273081162_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c</link>
+            <guid isPermaLink="false">8b994a7f-5f16-4f5a-86d8-f1baab6d4de6</guid>
+            <pubDate>Sat, 31 Oct 2015 18:57:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#charliepalmers]]></title>
             <description><![CDATA[<article><h1>#charliepalmers</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11055722_1608666519347226_555635429_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/idD3-cPRRB/?taken-by=iade.c</link>
             <guid isPermaLink="false">1706366b-599e-4c44-8698-d396e15d9bd1</guid>
             <pubDate>Sat, 31 Oct 2015 18:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SoCal.. SoFar</p>]]></description>
-            <link>http://www.socalsofar.com/49033da2-f9ce-48d0-9e23-e6052d9c70fe/index.html</link>
-            <guid isPermaLink="false">49033da2-f9ce-48d0-9e23-e6052d9c70fe</guid>
-            <pubDate>Sat, 31 Oct 2015 18:21:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
