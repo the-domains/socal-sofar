@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T19:22:31.112Z'
-dateModified: '2015-10-31T19:22:26.557Z'
+datePublished: '2015-10-31T20:16:08.869Z'
+dateModified: '2015-10-31T20:16:06.069Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Instagram photo by adec * Oct 12, 2014 at 2:20am UTC'
+title: LA - Downtown
 sourcePath: _posts/2015-10-31-instagram-photo-by-adec-oct-12-2014-at-220am-utc.md
 published: true
 authors: []
