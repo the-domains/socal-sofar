@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/ifvkAHvRYl/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-31T20:17:05.944Z'
-dateModified: '2015-10-31T20:17:03.801Z'
+description: '..forgot to mention last time.. they have an amazing tirimasu as well.. if tirimasu4U.com had ever evolved from a drunken after dinner conversation, then Bottega Louie would be definitely up there on the leaderboard.. '
+datePublished: '2015-11-01T23:53:37.662Z'
+dateModified: '2015-11-01T23:53:32.517Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
