@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-31T20:59:54.506Z'
-dateModified: '2015-10-31T20:59:49.287Z'
+datePublished: '2015-11-01T23:08:46.125Z'
+dateModified: '2015-11-01T23:08:42.240Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Good morning! #niteshiftbored #SoCalSoFar'
+title: 'Good morning! #SoCalSoFar'
 sourcePath: _posts/2015-10-31-good-morning-niteshiftbored-socalsofar.md
 published: true
 authors: []
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Good morning! #niteshiftbored #SoCalSoFar](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/11820422_1439738723023282_1944607158_n.jpg)
+![Good morning! #SoCalSoFar](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/11820422_1439738723023282_1944607158_n.jpg)
