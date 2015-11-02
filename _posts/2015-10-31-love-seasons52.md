@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'One of my fave restaurants just for casually eating.. #neverfailstoimpress'
-datePublished: '2015-11-01T22:20:03.689Z'
-dateModified: '2015-11-01T22:20:00.555Z'
+datePublished: '2015-11-02T00:14:44.101Z'
+dateModified: '2015-11-02T00:14:40.950Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
