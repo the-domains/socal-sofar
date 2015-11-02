@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/3Swi90PRQl/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-31T20:11:36.308Z'
-dateModified: '2015-10-31T20:11:33.718Z'
+description: "..seriously... don't leave the new concept menu lying around unattended if you don't want Customers to make their own comments! .. Sorry .. not sorry!"
+datePublished: '2015-11-02T00:10:17.648Z'
+dateModified: '2015-11-02T00:10:14.766Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
