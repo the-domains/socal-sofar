@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 01:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 02:15:34 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LA @ nite]]></title>
+            <description><![CDATA[<article><h1>LA @ nite</h1><p>if you want to see LA @ nite .. good luck .. very few flights are allowed across the city when dark...</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hrIOySjsTfA</link>
+            <guid isPermaLink="false">f72b4635-992b-4f24-9a88-a4507d1e21c0</guid>
+            <pubDate>Mon, 02 Nov 2015 02:15:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#bottegalouie #needtirimasu]]></title>
             <description><![CDATA[<article><h1>#bottegalouie #needtirimasu</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1515630_436905983098834_1456161412_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/h2gTu9PRRN/?taken-by=iade.c</link>
             <guid isPermaLink="false">53de6a72-9276-4a6b-849b-77dece3720e1</guid>
             <pubDate>Mon, 02 Nov 2015 00:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#333]]></title>
-            <description><![CDATA[<article><h1>#333</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1538523_1377230655855748_2035237797_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/idD3-cPRRB/?taken-by=iade.c</link>
-            <guid isPermaLink="false">1706366b-599e-4c44-8698-d396e15d9bd1</guid>
-            <pubDate>Sat, 31 Oct 2015 20:26:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
