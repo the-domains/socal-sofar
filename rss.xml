@@ -4,8 +4,15 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://www.socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 00:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 00:39:50 GMT</lastBuildDate>
         <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#charliepalmers]]></title>
+            <description><![CDATA[<article><h1>#charliepalmers</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11055722_1608666519347226_555635429_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/0hcGBmvRf0/?taken-by=iade.c</link>
+            <guid isPermaLink="false">5cd82c05-289b-469a-8512-13de93253b60</guid>
+            <pubDate>Mon, 02 Nov 2015 00:38:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sur #vanderpumprules]]></title>
             <description><![CDATA[<article><h1>Sur #vanderpumprules</h1><img src="https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11005239_1590286421186148_60777930_n.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/uBrqAlPRTY/?taken-by=iade.c</link>
             <guid isPermaLink="false">931437ec-de92-4e9c-a9e2-7d8433e0240a</guid>
             <pubDate>Sat, 31 Oct 2015 20:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA - Downtown]]></title>
-            <description><![CDATA[<article><h1>LA - Downtown</h1><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/917186_369835539858152_395441782_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/uCRRxgPRXH/?taken-by=iade.c</link>
-            <guid isPermaLink="false">32358bf3-a14b-4140-9fbd-8e8b7ed0b239</guid>
-            <pubDate>Sat, 31 Oct 2015 20:16:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
