@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is actually a nice bar in a hidden hotel, so never seems busy. The Westin South Coast Plaza (686 Anton Boulevard · Costa Mesa, CA 92626 - http://www.westinsouthcoastplaza.com) is right next to the Arts Center in South Coast Metro. A nice quiet bar at the weekends to unwind and escape. Whether its the fountain wall in the garden, or the cool little vessels as you get to last orders.. for some reason I really like this place. '
-datePublished: '2015-11-04T20:08:04.410Z'
-dateModified: '2015-11-04T20:07:53.882Z'
+datePublished: '2015-11-04T21:10:15.341Z'
+dateModified: '2015-11-04T21:10:11.249Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
