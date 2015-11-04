@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-31T20:13:30.769Z'
-dateModified: '2015-10-31T20:13:27.711Z'
+description: 'This is actually a nice bar in a hidden hotel, so never seems busy. The Westin South Coast Plaza (686 Anton Boulevard · Costa Mesa, CA 92626 - http://www.westinsouthcoastplaza.com) is right next to the Arts Center in South Coast Metro. A nice quiet bar at the weekends to unwind and escape. Whether its the fountain wall in the garden, or the cool little vessels as you get to last orders.. for some reason I really like this place. '
+datePublished: '2015-11-04T20:08:04.410Z'
+dateModified: '2015-11-04T20:07:53.882Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'SoCal last call.. cool vessels.. '
+title: SoCal LastCall
 sourcePath: _posts/2015-10-31-socal-last-call-cool-vessels-socalsofar.md
 published: true
 authors: []
