@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/zGQ0H7PRZt/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-31T20:15:11.844Z'
-dateModified: '2015-10-31T20:15:08.645Z'
+description: "The Segerstrom Center for the Arts (600 Town Center Drive Costa Mesa, CA 92626 - www.scfta.org) is a huge Campus style Arts Center in South Coast Metro. At least 4 venues, a superb restaurant, and an outside plaza, there's always something going on. The main Concert Hall can house 1700 audience members, and is architecturally stunning. "
+datePublished: '2015-11-04T20:15:01.267Z'
+dateModified: '2015-11-04T20:14:55.547Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: SoCal
+title: SoCal Arts
 sourcePath: _posts/2015-10-31-instagram-photo-by-adec-feb-14-2015-at-1010pm-utc.md
 published: true
 authors: []
