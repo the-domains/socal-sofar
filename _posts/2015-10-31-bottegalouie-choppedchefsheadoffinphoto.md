@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "But of course.. Bottega Louie (700 S Grand Ave, Los Angeles, CA 90017 - www.bottegalouie.com) LAs not so secret secret.. Both a Patisserie and a Restaurant, you can't book or reserve a table here, strictly first come first served. No surprises then when you get there and the queue is stretching down the block. It may take you an hour, two hours to get seated, but it is well worth it.. Best to order many dishes and share around the table.. just don't forget to order the Portobello Fries.  "
-datePublished: '2015-11-05T03:14:00.593Z'
-dateModified: '2015-11-05T03:11:42.250Z'
+datePublished: '2015-11-05T03:14:34.284Z'
+dateModified: '2015-11-05T03:14:31.005Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
