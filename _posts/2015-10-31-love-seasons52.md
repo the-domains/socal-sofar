@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/h2gTu9PRRN/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: 'One of my fave restaurants just for casually eating.. #neverfailstoimpress'
-datePublished: '2015-11-02T00:14:44.101Z'
-dateModified: '2015-11-02T00:14:40.950Z'
+description: "One of my fave restaurants just for casually eating.. #neverfailstoimpress (3333 Bristol St, Suite # 2802, Costa Mesa, CA 92626 - www.seasons52.com) Seasons 52 has been the default place to go to since I have lived in SoCal. Whether it's birthdays, dinner with colleagues, or just having lunch and a sneaky drink after shopping in South Coast Plaza. Healthy fresh food at affordable prices."
+datePublished: '2015-11-05T20:55:21.422Z'
+dateModified: '2015-11-05T20:55:12.767Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
