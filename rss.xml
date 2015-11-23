@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[SoCal.. SoFar]]></title>
         <description><![CDATA[SoCal.. SoFar]]></description>
-        <link>http://www.socalsofar.com/</link>
+        <link>https://thegrid.ai/socal-sofar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 20:41:18 GMT</lastBuildDate>
-        <atom:link href="http://www.socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 20:47:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/socal-sofar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
             <description><![CDATA[<article><h1>good morning! #SoCalSoFar</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/11820422_1439738723023282_1944607158_n.jpg"></article>]]></description>
@@ -14,16 +14,9 @@
             <pubDate>Mon, 23 Nov 2015 20:39:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<h1>About</h1>]]></description>
-            <link>http://www.socalsofar.com/75d695fd-8682-4612-be19-4229aa4a22ca/index.html</link>
-            <guid isPermaLink="false">75d695fd-8682-4612-be19-4229aa4a22ca</guid>
-            <pubDate>Mon, 23 Nov 2015 20:34:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[where am i..]]></title>
             <description><![CDATA[<article><h1>where am i..</h1><p>#dontclickthis</p><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10413949_845229892209824_121720013_n.jpg"></article>]]></description>
-            <link>http://www.socalsofar.com/where-am-i/index.html</link>
+            <link>https://thegrid.ai/socal-sofar/where-am-i/index.html</link>
             <guid isPermaLink="false">133a32e3-ada3-4656-af23-bcb8987a644e</guid>
             <pubDate>Mon, 23 Nov 2015 20:38:44 GMT</pubDate>
         </item>
