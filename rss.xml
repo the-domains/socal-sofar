@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 02:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 02:02:55 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -12,6 +12,13 @@
             <link>https://instagram.com/p/6KbyBovRUa/?taken-by=iade.c</link>
             <guid isPermaLink="false">d2212608-1651-4f2f-99ee-ca017bf60f0d</guid>
             <pubDate>Mon, 23 Nov 2015 20:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where were we ?]]></title>
+            <description><![CDATA[<article><h1>Where were we ?</h1><p>#itwasactuallycocolaurent</p><img src="https://scontent.cdninstagram.com/hphotos-xtf1/t51.2885-15/e15/11351572_779377198849118_1823480203_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/e1crp3PRfs/?taken-by=iade.c</link>
+            <guid isPermaLink="false">5c091226-7fd0-4e54-9e92-c4b6b5652fb7</guid>
+            <pubDate>Wed, 02 Dec 2015 02:02:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Umm added comments to a new menu concept.. ]]></title>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/uBrqAlPRTY/?taken-by=iade.c</link>
             <guid isPermaLink="false">931437ec-de92-4e9c-a9e2-7d8433e0240a</guid>
             <pubDate>Thu, 05 Nov 2015 21:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#333]]></title>
-            <description><![CDATA[<article><h1>#333</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1538523_1377230655855748_2035237797_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/idD3-cPRRB/?taken-by=iade.c</link>
-            <guid isPermaLink="false">1706366b-599e-4c44-8698-d396e15d9bd1</guid>
-            <pubDate>Sun, 22 Nov 2015 21:33:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
