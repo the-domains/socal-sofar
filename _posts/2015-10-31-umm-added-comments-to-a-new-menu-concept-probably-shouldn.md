@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "..seriously... don't leave the new concept menu lying around unattended if you don't want Customers to make their own comments! .. Sorry .. not sorry!"
-datePublished: '2015-11-02T00:10:17.648Z'
-dateModified: '2015-11-02T00:10:14.766Z'
+datePublished: '2015-12-02T01:57:10.886Z'
+dateModified: '2015-12-02T01:57:03.605Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -37,3 +37,5 @@ _context: 'http://schema.org'
 
 ---
 ![Umm added comments to a new menu concept.. ](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11325242_818929598190136_1636353425_n.jpg)
+
+..seriously... don't leave the new concept menu lying around unattended if you don't want Customers to make their own comments! .. Sorry .. not sorry!
