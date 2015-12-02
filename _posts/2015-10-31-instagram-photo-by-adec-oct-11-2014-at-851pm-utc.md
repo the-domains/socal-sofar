@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Union Station, LA (800 N Alameda St, Los Angeles, CA 90012) ..no idea why this part was so empty, but love the huge windows. Also serves as the metro link, so easy to get to down to Hollywood.. take the metro, beat the traffic.'
-datePublished: '2015-11-05T21:03:52.523Z'
-dateModified: '2015-11-05T21:03:48.496Z'
+datePublished: '2015-12-02T02:07:29.960Z'
+dateModified: '2015-12-02T02:07:27.318Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
