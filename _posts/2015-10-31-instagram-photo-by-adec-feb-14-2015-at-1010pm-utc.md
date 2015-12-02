@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The Segerstrom Center for the Arts (600 Town Center Drive Costa Mesa, CA 92626 - www.scfta.org) is a huge Campus style Arts Center in South Coast Metro. At least 4 venues, a superb restaurant, and an outside plaza, there's always something going on. The main Concert Hall can house 1700 audience members, and is architecturally stunning. "
-datePublished: '2015-11-04T20:18:17.271Z'
-dateModified: '2015-11-04T20:18:13.430Z'
+datePublished: '2015-12-02T02:06:52.963Z'
+dateModified: '2015-12-02T02:06:50.569Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
