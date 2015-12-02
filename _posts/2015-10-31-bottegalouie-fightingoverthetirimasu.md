@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '..forgot to mention last time.. they have an amazing tirimasu as well.. if tirimasu4U.com had ever evolved from a drunken after dinner conversation, then Bottega Louie would be definitely up there on the leaderboard.. '
-datePublished: '2015-12-02T02:07:46.963Z'
-dateModified: '2015-12-02T02:07:44.670Z'
+datePublished: '2015-12-02T02:31:05.556Z'
+dateModified: '2015-12-02T02:31:02.102Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -37,3 +37,5 @@ _context: 'http://schema.org'
 
 ---
 ![#bottegalouie ](https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xap1/t51.2885-15/e15/1171951_245578732272873_1434099445_n.jpg)
+
+..forgot to mention last time.. they have an amazing tirimasu as well.. if tirimasu4U.com had ever evolved from a drunken after dinner conversation, then Bottega Louie would be definitely up there on the leaderboard..
