@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sur Lounge is located in West Hollywood (606 N Robertson Blvd, West Hollywood, CA 90069 - http://www.surrestaurantandbar.com/) and is the setting for a Bravo TV reality show called Vanderpump Rules. Owned by Lisa Vanderpump the show follows the lives of the bar and waiters in the normal reality style setting. Having been there, I can say.. yes the food is amazing.. yes its freaky if you have seen the show to be there... no you are not going to meet any of the employees that are portrayed in the show.. I mean .. what are the chances that none of them were working that nite... ? Heavily recommended though for quality and price..'
-datePublished: '2015-12-02T02:06:38.418Z'
-dateModified: '2015-12-02T02:06:35.816Z'
+datePublished: '2015-12-02T02:22:23.306Z'
+dateModified: '2015-12-02T02:22:15.546Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -37,3 +37,5 @@ _context: 'http://schema.org'
 
 ---
 ![Sur #vanderpumprules](https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11005239_1590286421186148_60777930_n.jpg)
+
+Sur Lounge is located in West Hollywood (606 N Robertson Blvd, West Hollywood, CA 90069 - http://www.surrestaurantandbar.com/) and is the setting for a Bravo TV reality show called Vanderpump Rules. Owned by Lisa Vanderpump the show follows the lives of the bar and waiters in the normal reality style setting. Having been there, I can say.. yes the food is amazing.. yes its freaky if you have seen the show to be there... no you are not going to meet any of the employees that are portrayed in the show.. I mean .. what are the chances that none of them were working that nite... ? Heavily recommended though for quality and price..
