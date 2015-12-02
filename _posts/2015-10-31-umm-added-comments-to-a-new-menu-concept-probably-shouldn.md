@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "..seriously... don't leave the new concept menu lying around unattended if you don't want Customers to make their own comments! .. Sorry .. not sorry!"
-datePublished: '2015-12-02T01:57:10.886Z'
-dateModified: '2015-12-02T01:57:03.605Z'
+datePublished: '2015-12-02T02:05:06.971Z'
+dateModified: '2015-12-02T02:05:04.664Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
