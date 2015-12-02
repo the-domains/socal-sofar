@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "But of course.. Bottega Louie (700 S Grand Ave, Los Angeles, CA 90017 - www.bottegalouie.com) LAs not so secret secret.. Both a Patisserie and a Restaurant, you can't book or reserve a table here, strictly first come first served. No surprises then when you get there and the queue is stretching down the block. It may take you an hour, two hours to get seated, but it is well worth it.. Best to order many dishes and share around the table.. just don't forget to order the Portobello Fries.  "
-datePublished: '2015-12-02T02:08:22.570Z'
-dateModified: '2015-12-02T02:08:20.105Z'
+datePublished: '2015-12-02T02:31:41.100Z'
+dateModified: '2015-12-02T02:31:37.542Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -37,3 +37,5 @@ _context: 'http://schema.org'
 
 ---
 ![#bottegalouie](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/1530783_620142254688242_57127495_n.jpg)
+
+But of course.. Bottega Louie (700 S Grand Ave, Los Angeles, CA 90017 - www.bottegalouie.com) LAs not so secret secret.. Both a Patisserie and a Restaurant, you can't book or reserve a table here, strictly first come first served. No surprises then when you get there and the queue is stretching down the block. It may take you an hour, two hours to get seated, but it is well worth it.. Best to order many dishes and share around the table.. just don't forget to order the Portobello Fries.
