@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 02:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 02:33:25 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -12,13 +12,6 @@
             <link>https://instagram.com/p/6KbyBovRUa/?taken-by=iade.c</link>
             <guid isPermaLink="false">d2212608-1651-4f2f-99ee-ca017bf60f0d</guid>
             <pubDate>Mon, 23 Nov 2015 20:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where were we ?]]></title>
-            <description><![CDATA[<article><h1>Where were we ?</h1><p>#itwasactuallycocolaurent</p><img src="https://scontent.cdninstagram.com/hphotos-xtf1/t51.2885-15/e15/11351572_779377198849118_1823480203_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/e1crp3PRfs/?taken-by=iade.c</link>
-            <guid isPermaLink="false">5c091226-7fd0-4e54-9e92-c4b6b5652fb7</guid>
-            <pubDate>Wed, 02 Dec 2015 02:33:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love #Seasons52]]></title>
@@ -75,6 +68,13 @@
             <link>https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c</link>
             <guid isPermaLink="false">8b994a7f-5f16-4f5a-86d8-f1baab6d4de6</guid>
             <pubDate>Wed, 02 Dec 2015 02:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#lush]]></title>
+            <description><![CDATA[<article><h1>#lush</h1><p>sometimes all you need is a green olive on a stick..</p><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/11004983_1428956364068274_532492752_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/0MeG5UvRVZ/?taken-by=iade.c</link>
+            <guid isPermaLink="false">0cf37353-2245-4e6b-ace8-83fd9ff53b95</guid>
+            <pubDate>Wed, 02 Dec 2015 02:24:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
