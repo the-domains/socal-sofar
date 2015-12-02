@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-02T02:06:02.207Z'
-dateModified: '2015-12-02T02:05:59.628Z'
+datePublished: '2015-12-02T02:28:19.300Z'
+dateModified: '2015-12-02T02:28:13.737Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -37,3 +37,5 @@ _context: 'http://schema.org'
 
 ---
 ![#charliepalmers](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11055722_1608666519347226_555635429_n.jpg)
+
+What can you say about Charlie Palmers (3333 Bristol Street Costa Mesa, CA 92626 - http://www.charliepalmer.com/charlie-palmer-at-bloomingdales/ ) ..Hidden within Bloomingdales in South Coast Plaza, the natural place to build a restaurant. Whilst the food is amazing, that dinner for 5 left a hefty 4 figure dent in the bank account. Use the restaurant wisely, marriage proposals, births, you've won the lottery.. on the plus side though there is the bar. Upmarket, yes.. busy, yes.. but hell you can go to this bar every weekend and have a great time. It's no more expensive than any other bar (I think.. must check the tab next time..) and has a great vibe about it.. start here, then you're just a taxi away from a bar crawl in Newport Beach, before heading home with a bongo playing taxi driver... perfect!
