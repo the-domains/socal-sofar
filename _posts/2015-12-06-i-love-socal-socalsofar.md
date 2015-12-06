@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/-8HE38vRfx/?taken-by=iade.c'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-06T21:56:01.142Z'
+dateModified: '2015-12-06T21:55:56.887Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1133812327468832753'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/-8HE38vRfx/?taken-by=iade.c'
 title: 'I love SoCal #socalsofar'
-datePublished: '2015-12-06T21:37:46.946Z'
-dateModified: '2015-12-06T21:37:21.734Z'
 sourcePath: _posts/2015-12-06-i-love-socal-socalsofar.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![I love SoCal &num;socalsofar](https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/12292854_932494886786720_900505049_n.jpg)
+![I love SoCal #socalsofar](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee2535d4454ad48e6a4af847717faa74a6a4117.jpg)
