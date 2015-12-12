@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T04:45:12.439Z'
-dateModified: '2015-12-12T04:45:00.070Z'
+datePublished: '2015-12-12T04:51:12.272Z'
+dateModified: '2015-12-12T04:51:04.660Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -24,18 +24,18 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: 'I love SoCal #socalsofar'
+sourcePath: _posts/2015-12-12-i-love-socal-socalsofar.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4da1e40/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-12-i-love-socal-socalsofar.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![I love SoCal #socalsofar](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14be3c89e213d32ab9d53dc202a597e4acff75ef.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/078ee31f4b17366bf398a793b60467f5d37b65d4.jpg)
 
 The Holidays are coming... who's on the naughty list?
