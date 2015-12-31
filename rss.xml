@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 02:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 16:51:17 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 20:55:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ROARR!!]]></title>
+            <description><![CDATA[<article><h1>ROARR!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86e179aef4195173e4ea85a94cdf970f96d14d2.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/41487da4-d2ed-4595-990a-d95daa045010.png</link>
+            <guid isPermaLink="false">4154d050-3ece-4278-81f1-6468e0ff781f</guid>
+            <pubDate>Thu, 31 Dec 2015 16:50:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[W Hotel - LA]]></title>
-            <description><![CDATA[<article><h1>W Hotel - LA</h1><p>yes the W Hotel (6250 Hollywood Boulevard, Hollywood, CA, 90028 - http://www.whollywoodhotel.com) ..a nice alternative to Loews (which I'm surprised I haven't mentioned yet on this site!).. stylish modern hotel in West Hollywood.. just a stones throw from Hollywood Boulevard.. great outdoor bar for those long evenings.. and cool decor'd bar in the main lobby..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8f723fe81e5a2cf59388ce837b960dacfbe0a33.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>W Hotel - LA</h1><p>yes the W Hotel (6250 Hollywood Boulevard, Hollywood, CA, 90028 - http://www.whollywoodhotel.com) ..a nice alternative to Loews (which I'm surprised I haven't mentioned yet on this site!).. stylish modern hotel in West Hollywood.. just a stones throw from Hollywood Boulevard.. great outdoor bar for those long evenings.. and cool decor'd bar in the main lobby..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbda3d8ebed6b7640080560a3bb67cda8c96439a.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/0GekLevRbh/?taken-by=iade.c</link>
             <guid isPermaLink="false">f4bb25cd-66f6-4796-b897-9ed71088325b</guid>
             <pubDate>Sun, 27 Dec 2015 02:26:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/idD3-cPRRB/?taken-by=iade.c</link>
             <guid isPermaLink="false">1706366b-599e-4c44-8698-d396e15d9bd1</guid>
             <pubDate>Wed, 02 Dec 2015 02:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SoCal Arts]]></title>
-            <description><![CDATA[<article><h1></h1><p>The Segerstrom Center for the Arts (600 Town Center Drive Costa Mesa, CA 92626 - www.scfta.org) is a huge Campus style Arts Center in South Coast Metro. At least 4 venues, a superb restaurant, and an outside plaza, there's always something going on. The main Concert Hall can house 1700 audience members, and is architecturally stunning. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6943156bf7fec7410045e2a2dc5469d265f55e8d.jpg"></article>]]></description>
-            <link>https://instagram.com/p/zGQ0H7PRZt/?taken-by=iade.c</link>
-            <guid isPermaLink="false">f180aea4-411f-447a-a63d-d9d7fb46214f</guid>
-            <pubDate>Thu, 10 Dec 2015 03:01:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
