@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 16:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 02:12:49 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Thu, 17 Dec 2015 20:55:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Los Angeles, CA]]></title>
+            <description><![CDATA[<h1>Los Angeles, CA</h1>]]></description>
+            <link>https://www.google.com/maps/place/Los+Angeles,+CA/@33.9877337,-118.225682,11z/data=!4m2!3m1!1s0x80c2c75ddc27da13:0xe22fdf6f254608f4</link>
+            <guid isPermaLink="false">4888655b-d445-4e50-8af5-6660f4ca40cc</guid>
+            <pubDate>Thu, 07 Jan 2016 02:12:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ROARR!!]]></title>
-            <description><![CDATA[<article><h1>ROARR!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86e179aef4195173e4ea85a94cdf970f96d14d2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>ROARR!!</h1><p>when you just need garlic chicken wings and truffle flavored fries..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86e179aef4195173e4ea85a94cdf970f96d14d2.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/41487da4-d2ed-4595-990a-d95daa045010.png</link>
             <guid isPermaLink="false">4154d050-3ece-4278-81f1-6468e0ff781f</guid>
             <pubDate>Thu, 31 Dec 2015 16:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[W Hotel - LA]]></title>
-            <description><![CDATA[<article><h1>W Hotel - LA</h1><p>yes the W Hotel (6250 Hollywood Boulevard, Hollywood, CA, 90028 - http://www.whollywoodhotel.com) ..a nice alternative to Loews (which I'm surprised I haven't mentioned yet on this site!).. stylish modern hotel in West Hollywood.. just a stones throw from Hollywood Boulevard.. great outdoor bar for those long evenings.. and cool decor'd bar in the main lobby..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbda3d8ebed6b7640080560a3bb67cda8c96439a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>W Hotel - LA</h1><p>yes the W Hotel (6250 Hollywood Boulevard, Hollywood, CA, 90028 - http://www.whollywoodhotel.com) ..a nice alternative to Loews (which I'm surprised I haven't mentioned yet on this site!).. stylish modern hotel in West Hollywood.. just a stones throw from Hollywood Boulevard.. great outdoor bar for those long evenings.. and cool decor'd bar in the main lobby..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d9614d0762c2e0aeb40d2df7752c6305f0e4c75.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/0GekLevRbh/?taken-by=iade.c</link>
             <guid isPermaLink="false">f4bb25cd-66f6-4796-b897-9ed71088325b</guid>
             <pubDate>Sun, 27 Dec 2015 02:26:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/h2gTu9PRRN/?taken-by=iade.c</link>
             <guid isPermaLink="false">53de6a72-9276-4a6b-849b-77dece3720e1</guid>
             <pubDate>Thu, 10 Dec 2015 02:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#333]]></title>
-            <description><![CDATA[<article><h1>#333</h1><p>3-Thirty-3 (333 Bayside Drive, Newport Beach, CA 92660 - www.3thirty3nb.com) is a modern stylish bar and restaurant located on the Newport Beach waterfront. Open everyday until 2am, that's kinda unusual around here, but makes it a great place to hang out at the weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cd08328de432250b79b95c7b6b3106829458093.jpg"></article>]]></description>
-            <link>https://instagram.com/p/idD3-cPRRB/?taken-by=iade.c</link>
-            <guid isPermaLink="false">1706366b-599e-4c44-8698-d396e15d9bd1</guid>
-            <pubDate>Wed, 02 Dec 2015 02:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
