@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-09T22:51:41.711Z'
-dateModified: '2016-01-09T22:51:39.174Z'
+datePublished: '2016-01-10T00:36:57.424Z'
+dateModified: '2016-01-10T00:36:54.902Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -36,6 +36,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![good morning! #SoCalSoFar](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d561ea9e667948f236130974f05a011c7c7dada.jpg)
-
 for all the niteshifts.. i thank you that you open at 5:30am.. iced vanilla with 2 espresso shots.. that'll be all..
+![good morning! #SoCalSoFar](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cb5a1790ed6b70e1728b5f44f257f124c4a9eb4.jpg)
