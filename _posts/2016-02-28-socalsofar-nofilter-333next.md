@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCUWs0DPRc4/?taken-by=iade.c'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-28T20:48:08.677Z'
+dateModified: '2016-02-28T20:47:15.554Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1194679637729154872'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCUWs0DPRc4/?taken-by=iade.c'
 title: '#socalsofar #nofilter #333next'
-datePublished: '2016-02-28T19:50:54.701Z'
-dateModified: '2016-02-28T19:50:32.064Z'
 sourcePath: _posts/2016-02-28-socalsofar-nofilter-333next.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&num;socalsofar &num;nofilter &num;333next](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12331418_629945817144767_2067221875_n.jpg?ig_cache_key=MTE5NDY3OTYzNzcyOTE1NDg3Mg%3D%3D.2)
+![#socalsofar #nofilter #333next](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6fb71f4f6c0261aa7d0c06c7a832dcd014f9bc1.jpg)
