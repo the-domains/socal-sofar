@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCWPprmPRe8/?taken-by=iade.c'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-28T23:17:53.967Z'
+dateModified: '2016-02-28T23:16:33.753Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1195211586122094524'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCWPprmPRe8/?taken-by=iade.c'
 title: '#socalsofar #oscars #wheresthefood?'
-datePublished: '2016-02-28T23:16:27.015Z'
-dateModified: '2016-02-28T23:15:50.450Z'
 sourcePath: _posts/2016-02-28-socalsofar-oscars-wheresthefood.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
