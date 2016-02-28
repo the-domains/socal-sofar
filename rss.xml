@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 23:18:12 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -12,6 +12,13 @@
             <link>https://instagram.com/p/6KbyBovRUa/?taken-by=iade.c</link>
             <guid isPermaLink="false">d2212608-1651-4f2f-99ee-ca017bf60f0d</guid>
             <pubDate>Mon, 11 Jan 2016 19:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#socalsofar #oscars #wheresthefood?]]></title>
+            <description><![CDATA[<article><h1>#socalsofar #oscars #wheresthefood?</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12751605_1509301969377935_1152475738_n.jpg?ig_cache_key=MTE5NTIxMTU4NjEyMjA5NDUyNA%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BCWPprmPRe8/?taken-by=iade.c</link>
+            <guid isPermaLink="false">ef5a6adb-d21a-4988-bc0f-c0e0202baff4</guid>
+            <pubDate>Sun, 28 Feb 2016 23:16:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#socalsofar #3thirty3 #bluecheeseolivesmartiniyeahyouredurty..]]></title>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c</link>
             <guid isPermaLink="false">8b994a7f-5f16-4f5a-86d8-f1baab6d4de6</guid>
             <pubDate>Thu, 10 Dec 2015 03:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA @ nite]]></title>
-            <description><![CDATA[<article><h1>LA @ nite</h1><p>if you want to see LA @ nite .. good luck .. very few flights are allowed across the city when dark... but nothing is ever impossible.. </p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=hrIOySjsTfA</link>
-            <guid isPermaLink="false">f72b4635-992b-4f24-9a88-a4507d1e21c0</guid>
-            <pubDate>Wed, 02 Dec 2015 02:36:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
