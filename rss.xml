@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 19:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 19:51:45 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 11 Jan 2016 19:59:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#socalsofar #3thirty3 #bluecheeseolivesmartiniyeahyouredurty..]]></title>
+            <description><![CDATA[<article><h1>#socalsofar #3thirty3 #bluecheeseolivesmartiniyeahyouredurty..</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12750366_1030332207025987_188955734_n.jpg?ig_cache_key=MTE5NDcyMDEwNzk4OTYzNjg0Mw%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BCUf5u6vRbr/?taken-by=iade.c</link>
+            <guid isPermaLink="false">da609c92-0ee1-4656-bddf-83dd032f44f9</guid>
+            <pubDate>Sun, 28 Feb 2016 19:50:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#socalsofar #nofilter #333next]]></title>
-            <description><![CDATA[<article><h1>#socalsofar #nofilter #333next</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12331418_629945817144767_2067221875_n.jpg?ig_cache_key=MTE5NDY3OTYzNzcyOTE1NDg3Mg%3D%3D.2"></article>]]></description>
+            <description><![CDATA[<article><h1>#socalsofar #nofilter #333next</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6fb71f4f6c0261aa7d0c06c7a832dcd014f9bc1.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BCUWs0DPRc4/?taken-by=iade.c</link>
             <guid isPermaLink="false">728a42a1-825d-4919-8a5f-475fd1080580</guid>
             <pubDate>Sun, 28 Feb 2016 19:50:54 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=hrIOySjsTfA</link>
             <guid isPermaLink="false">f72b4635-992b-4f24-9a88-a4507d1e21c0</guid>
             <pubDate>Wed, 02 Dec 2015 02:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA - Downtown]]></title>
-            <description><![CDATA[<article><h1>LA - Downtown</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fe30b08338a7019333fa1744318d59fd0f0a171.jpg"></article>]]></description>
-            <link>https://instagram.com/p/uCRRxgPRXH/?taken-by=iade.c</link>
-            <guid isPermaLink="false">32358bf3-a14b-4140-9fbd-8e8b7ed0b239</guid>
-            <pubDate>Wed, 02 Dec 2015 02:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
