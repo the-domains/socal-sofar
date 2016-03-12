@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCjq4OsPRcT/?taken-by=iade.c'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-12T18:49:42.819Z'
+dateModified: '2016-03-12T18:45:02.197Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1198990507829434131'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCjq4OsPRcT/?taken-by=iade.c'
 title: '#pizzaatthebar #socalsofar #seasons52 #pizzeriaortica'
-datePublished: '2016-03-11T23:01:41.419Z'
-dateModified: '2016-03-06T20:12:46.697Z'
 sourcePath: _posts/2016-03-11-pizzaatthebar-socalsofar-seasons52-pizzeriaortica.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&num;pizzaatthebar &num;socalsofar &num;seasons52 &num;pizzeriaortica](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12819134_961740830530509_603856616_n.jpg?ig_cache_key=MTE5ODk5MDUwNzgyOTQzNDEzMQ%3D%3D.2)
+![#pizzaatthebar #socalsofar #seasons52 #pizzeriaortica](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f23771e2b1e1711a7fdd08d874cb061bc2b8c3c.jpg)
