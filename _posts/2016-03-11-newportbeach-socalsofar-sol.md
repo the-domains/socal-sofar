@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCmN79ivRQy/?taken-by=iade.c'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-12T18:45:34.013Z'
+dateModified: '2016-03-12T18:45:30.881Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1199707645875655730'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCmN79ivRQy/?taken-by=iade.c'
 title: '#newportbeach #socalsofar #sol'
-datePublished: '2016-03-11T23:01:41.152Z'
-dateModified: '2016-03-06T20:12:36.571Z'
 sourcePath: _posts/2016-03-11-newportbeach-socalsofar-sol.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&num;newportbeach &num;socalsofar &num;sol](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12826186_1652775014980659_1233307962_n.jpg?ig_cache_key=MTE5OTcwNzY0NTg3NTY1NTczMA%3D%3D.2)
+![#newportbeach #socalsofar #sol](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ebc2b00a6b8175f6fd84e0c04ee508ccd8756f.jpg)
