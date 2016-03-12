@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Adrian Cutler
-    url: 'https://www.youtube.com/user/webadec'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=hrIOySjsTfA&feature=youtu.be'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - helicopter
@@ -21,7 +17,13 @@ keywords:
   - vlogs
   - aerobatic
 description: 'gtech #g-technology thanks to Vincent Laforet for organizing helicopter flights around LA during the G-Technology Partner Summit. LA at night from a helicopter is pretty awesome.. especially awesome @ 1:55 when the pilot gets asked is he really a RedBull pilot.. (..and yes he was...)'
-inLanguage: en
+datePublished: '2016-03-12T20:44:22.383Z'
+dateModified: '2016-03-12T20:43:59.716Z'
+author:
+  - name: Adrian Cutler
+    url: 'https://www.youtube.com/user/webadec'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=hrIOySjsTfA&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=hrIOySjsTfA&feature=youtu.be'
 title: Helicopter flight around LA
-datePublished: '2016-03-12T20:39:51.438Z'
-dateModified: '2016-03-12T20:37:10.272Z'
 sourcePath: _posts/2016-03-12-helicopter-flight-around-la.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
