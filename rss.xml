@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 19:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 20:40:55 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -12,6 +12,13 @@
             <link>https://instagram.com/p/6KbyBovRUa/?taken-by=iade.c</link>
             <guid isPermaLink="false">d2212608-1651-4f2f-99ee-ca017bf60f0d</guid>
             <pubDate>Mon, 11 Jan 2016 19:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helicopter flight around LA]]></title>
+            <description><![CDATA[<article><h1>Helicopter flight around LA</h1><p>gtech #g-technology thanks to Vincent Laforet for organizing helicopter flights around LA during the G-Technology Partner Summit. LA at night from a helicopter is pretty awesome.. especially awesome @ 1:55 when the pilot gets asked is he really a RedBull pilot.. (..and yes he was...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf630f96dd20ac3ad82e76626fd24e4be7f322ce.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hrIOySjsTfA&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">3be987ac-14ef-4cbc-9767-dfc51849c7f0</guid>
+            <pubDate>Sat, 12 Mar 2016 20:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#oscars #socalsofar #itsastart #wheresthesteaks]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BCRrlSqPRZZ/?taken-by=iade.c</link>
             <guid isPermaLink="false">fd2df97e-4f0d-4812-883c-727bf04cef69</guid>
             <pubDate>Sat, 12 Mar 2016 18:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SoCal.. SoFar..]]></title>
-            <description><![CDATA[<article><h1>SoCal.. SoFar..</h1><p>location.. location.. locations..</p></article>]]></description>
-            <link>https://www.google.com/maps/d/edit?hl=en&amp;hl=en&amp;authuser=0&amp;authuser=0&amp;mid=z0niDt1Z62Ik.kzHWdTYOgi1A</link>
-            <guid isPermaLink="false">dc0bc19c-2803-4738-acd5-69f32b183283</guid>
-            <pubDate>Sat, 12 Mar 2016 19:52:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
