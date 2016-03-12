@@ -16,9 +16,9 @@ keywords:
   - g-technology
   - vlogs
   - aerobatic
-description: 'gtech #g-technology thanks to Vincent Laforet for organizing helicopter flights around LA during the G-Technology Partner Summit. LA at night from a helicopter is pretty awesome.. especially awesome @ 1:55 when the pilot gets asked is he really a RedBull pilot.. (..and yes he was...)'
-datePublished: '2016-03-12T20:44:22.383Z'
-dateModified: '2016-03-12T20:43:59.716Z'
+description: ''
+datePublished: '2016-03-12T20:45:19.469Z'
+dateModified: '2016-03-12T20:44:56.199Z'
 author:
   - name: Adrian Cutler
     url: 'https://www.youtube.com/user/webadec'
