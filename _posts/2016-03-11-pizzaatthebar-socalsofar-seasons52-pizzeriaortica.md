@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T18:56:13.201Z'
-dateModified: '2016-03-12T18:56:12.855Z'
+datePublished: '2016-03-13T22:05:07.225Z'
+dateModified: '2016-03-13T22:04:43.710Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: '#pizzaatthebar #socalsofar #seasons52 #pizzeriaortica'
+title: '#pizzaatthebar #socalsofar #pizzeriaortica'
 sourcePath: _posts/2016-03-11-pizzaatthebar-socalsofar-seasons52-pizzeriaortica.md
 published: true
 authors: []
