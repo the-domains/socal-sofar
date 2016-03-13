@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: location.. location.. locations..
-datePublished: '2016-03-13T23:09:43.470Z'
-dateModified: '2016-03-13T23:09:24.434Z'
+datePublished: '2016-03-13T23:12:12.245Z'
+dateModified: '2016-03-13T23:11:58.615Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _type: Place
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ea67f84-da8c-4432-b04e-d2165d891c3d.png)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed%3Fmid%3Dz0niDt1Z62Ik.kzHWdTYOgi1A%26hl%3Den&amp;url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3Dz0niDt1Z62Ik.kzHWdTYOgi1A%26hl%3Den&amp;image=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fthumbnail%3Fmid%3Dz0niDt1Z62Ik.kzHWdTYOgi1A%26hl%3Den&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=google" width="600" height="450" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/445a797d0c68a7153faf28ebe4c5f67fd07d7604.png)
