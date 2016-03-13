@@ -11,8 +11,8 @@ description: location.. location.. locations..
 app_links: []
 isBasedOnUrl: 'https://www.google.com/maps/d/viewer?hl=en&hl=en&authuser=0&authuser=0&mid=z0niDt1Z62Ik.kzHWdTYOgi1A'
 title: SoCal.. SoFar..
-datePublished: '2016-03-13T02:02:26.628Z'
-dateModified: '2016-03-12T19:53:13.501Z'
+datePublished: '2016-03-13T22:03:02.280Z'
+dateModified: '2016-03-12T20:42:39.725Z'
 sourcePath: _posts/2016-03-13-socal-sofar.md
 published: true
 inFeed: true
