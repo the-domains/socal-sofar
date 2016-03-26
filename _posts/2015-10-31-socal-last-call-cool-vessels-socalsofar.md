@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is actually a nice bar in a hidden hotel, so never seems busy. The Westin South Coast Plaza (686 Anton Boulevard · Costa Mesa, CA 92626 - http://www.westinsouthcoastplaza.com) is right next to the Arts Center in South Coast Metro. A nice quiet bar at the weekends to unwind and escape. Whether its the fountain wall in the garden, or the cool little vessels as you get to last orders.. for some reason I really like this place. '
-datePublished: '2015-12-10T03:04:42.120Z'
-dateModified: '2015-12-10T03:04:38.085Z'
+description: 'This is actually a nice bar in a hidden hotel, so never seems busy. The Westin South Coast Plaza (686 Anton Boulevard · Costa Mesa, CA 92626 - http://www.westinsouthcoastplaza.com) is right next to the Arts Center in South Coast Metro. A nice quiet bar at the weekends to unwind and escape. Whether its the fountain wall in the garden, or the cool little vessels as you get to last orders.. for some reason I really like this place.'
+datePublished: '2016-03-26T17:45:11.298Z'
+dateModified: '2016-03-26T17:44:59.741Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
@@ -36,6 +36,6 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![SoCal last call.. cool vessels.. ](https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11142361_344668489073951_1273081162_n.jpg)
+![SoCal last call.. cool vessels.. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/16340e55de37bf2d226aa7cfa4cbca8d4f4a91a5.jpg)
 
 This is actually a nice bar in a hidden hotel, so never seems busy. The Westin South Coast Plaza (686 Anton Boulevard \* Costa Mesa, CA 92626 - http://www.westinsouthcoastplaza.com) is right next to the Arts Center in South Coast Metro. A nice quiet bar at the weekends to unwind and escape. Whether its the fountain wall in the garden, or the cool little vessels as you get to last orders.. for some reason I really like this place.
