@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://google.com/maps'
-  name: Google Maps
-  favicon: 'https://www.gstatic.com/mapspro/images/favicon-001.ico'
-  domain: www.google.com
-keywords: []
-description: location.. location.. locations..
-app_links: []
-isBasedOnUrl: 'https://www.google.com/maps/d/u/1/edit?hl=en&authuser=1&mid=z0niDt1Z62Ik.kzHWdTYOgi1A'
-title: SoCal.. SoFar..
-datePublished: '2016-03-26T18:34:01.864Z'
-dateModified: '2016-03-26T18:33:31.668Z'
-sourcePath: _posts/2016-03-26-socal-sofar.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.google.com/maps/d/u/1/edit?hl=en&authuser=1&mid=z0niDt1Z62Ik.kzHWdTYOgi1A'
+inLanguage: null
+starred: false
+keywords: []
+description: location.. location.. locations..
+datePublished: '2016-03-26T18:34:22.788Z'
+dateModified: '2016-03-26T18:34:09.894Z'
+author: []
+related: []
+app_links: []
+title: SoCal.. SoFar..
+sourcePath: _posts/2016-03-26-socal-sofar.md
+published: true
+authors: []
+publisher:
+  name: Google Maps
+  domain: www.google.com
+  url: 'http://google.com/maps'
+  favicon: 'https://www.gstatic.com/mapspro/images/favicon-001.ico'
 _type: Place
 _context: 'http://schema.org'
 
