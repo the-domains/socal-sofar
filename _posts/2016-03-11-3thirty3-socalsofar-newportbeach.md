@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.instagram.com/p/BCmkLtJPRTi/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-12T18:50:39.979Z'
-dateModified: '2016-03-12T18:46:04.159Z'
+description: "3Thirty3.. (333 Bayside Dr, Newport Beach, CA 92660 - www.3thirty3nb.com) ..oh how I love you.. the music, the drinks, the martinis, the fact you are open until 2am on a Saturday.. and the staff. Even though all the photos here seem to be about the drinks, it's also a restaurant with awesome food. It's one of those places again where you really need to try - and it can be so hard - to get a seat at the bar..\_"
+datePublished: '2016-03-26T17:29:53.674Z'
+dateModified: '2016-03-26T17:29:45.962Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: '#3thirty3 #socalsofar #newportbeach'
+title: '#3thirty3'
 sourcePath: _posts/2016-03-11-3thirty3-socalsofar-newportbeach.md
 published: true
 authors: []
@@ -42,4 +42,6 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![#3thirty3 #socalsofar #newportbeach](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e9c44d0c6075eaf5cca39104a4c88050e325e1a.jpg)
+![#3thirty3](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e9c44d0c6075eaf5cca39104a4c88050e325e1a.jpg)
+
+3Thirty3.. (333 Bayside Dr, Newport Beach, CA 92660 - www.3thirty3nb.com) ..oh how I love you.. the music, the drinks, the martinis, the fact you are open until 2am on a Saturday.. and the staff. Even though all the photos here seem to be about the drinks, it's also a restaurant with awesome food. It's one of those places again where you really need to try - and it can be so hard - to get a seat at the bar.. I bow down to you 3Thirty3, now get me another dirty martini....
