@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.instagram.com/p/BCjq4OsPRcT/?taken-by=iade.c'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-13T22:05:07.225Z'
-dateModified: '2016-03-13T22:04:43.710Z'
+description: "Pizzeria Ortica (650 Anton Blvd, Costa Mesa, CA 92626 -\_http://pizzeriaortica.com) is a quiet pizza joint just around the corner from the Segestrum Center"
+datePublished: '2016-03-26T17:20:45.177Z'
+dateModified: '2016-03-26T17:20:33.814Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: '#pizzaatthebar #socalsofar #pizzeriaortica'
+title: '#pizzeriaortica'
 sourcePath: _posts/2016-03-11-pizzaatthebar-socalsofar-seasons52-pizzeriaortica.md
 published: true
 authors: []
@@ -42,4 +42,6 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![#pizzaatthebar #socalsofar #seasons52 #pizzeriaortica](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f23771e2b1e1711a7fdd08d874cb061bc2b8c3c.jpg)
+![#pizzeriaortica](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f23771e2b1e1711a7fdd08d874cb061bc2b8c3c.jpg)
+
+Pizzeria Ortica (650 Anton Blvd, Costa Mesa, CA 92626 - http://pizzeriaortica.com) is a quiet pizza joint just around the corner from the Segerstrom Center.. The pizzas are amazing, great atmosphere, and for some reason I can't explain.. you have to order the brussel sprouts.. trust me! If you can, try not to sit at the tables.. always sit at the bar for your meal.. this may become the local drinking spot for a Friday nite..!
