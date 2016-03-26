@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://instagram.com/p/6KbyBovRUa/?taken-by=iade.c'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-11T19:59:40.924Z'
-dateModified: '2016-01-11T19:59:36.073Z'
+description: "for all the niteshifts.. i thank you that you open at 5:30am.. iced vanilla with 2 espresso shots.. that'll be all.."
+datePublished: '2016-03-26T18:41:02.687Z'
+dateModified: '2016-03-26T18:40:44.131Z'
 author:
   - name: iade.c
     url: 'https://instagram.com/iade.c'
