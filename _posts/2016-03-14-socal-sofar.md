@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'now if only the map would stay the right size!'
-datePublished: '2016-03-26T17:53:54.589Z'
-dateModified: '2016-03-26T17:53:37.894Z'
+datePublished: '2016-03-26T17:54:11.098Z'
+dateModified: '2016-03-26T17:54:00.726Z'
 author: []
 related: []
 app_links: []
