@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.google.com/maps/d/viewer?hl=en&hl=en&authuser=0&authu
 inLanguage: null
 starred: false
 keywords: []
-description: location.. location.. locations..
-datePublished: '2016-03-26T17:47:40.586Z'
-dateModified: '2016-03-26T17:47:25.699Z'
+description: 'now if only the map would stay the right size!'
+datePublished: '2016-03-26T17:48:02.037Z'
+dateModified: '2016-03-26T17:47:46.223Z'
 author: []
 related: []
 app_links: []
