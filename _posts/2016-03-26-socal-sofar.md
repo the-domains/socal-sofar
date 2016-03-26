@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.google.com/maps/d/u/1/edit?hl=en&authuser=1&mid=z0niDt1Z62Ik.kzHWdTYOgi1A'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: location.. location.. locations..
-datePublished: '2016-03-26T18:40:00.942Z'
-dateModified: '2016-03-26T18:39:50.642Z'
+datePublished: '2016-03-26T18:41:20.191Z'
+dateModified: '2016-03-26T18:41:11.243Z'
 author: []
 related: []
 app_links: []
