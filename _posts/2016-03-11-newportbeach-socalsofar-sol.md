@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T18:50:30.737Z'
-dateModified: '2016-03-12T18:45:42.608Z'
+datePublished: '2016-03-26T17:24:14.949Z'
+dateModified: '2016-03-26T17:24:06.100Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: '#newportbeach #socalsofar #sol'
+title: '#sol'
 sourcePath: _posts/2016-03-11-newportbeach-socalsofar-sol.md
 published: true
 authors: []
@@ -42,4 +42,6 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![#newportbeach #socalsofar #sol](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ebc2b00a6b8175f6fd84e0c04ee508ccd8756f.jpg)
+![#sol](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ebc2b00a6b8175f6fd84e0c04ee508ccd8756f.jpg)
+
+SOL Cocina (251 Pacific Coast Hwy, Newport Beach, CA 92660 - www.solcocina.com) is a mexican restaurant in Newport Beach. Well, ok it's more of an upscale mexican restaurant that serves great food, lively atmosphere.. and bargain.. it's right next door to 3Thirty3 !
