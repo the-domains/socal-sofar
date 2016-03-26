@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "3Thirty3.. (333 Bayside Dr, Newport Beach, CA 92660 - www.3thirty3nb.com) ..oh how I love you.. the music, the drinks, the martinis, the fact you are open until 2am on a Saturday.. and the staff. Even though all the photos here seem to be about the drinks, it's also a restaurant with awesome food. It's one of those places again where you really need to try - and it can be so hard - to get a seat at the bar..\_"
-datePublished: '2016-03-26T17:29:53.674Z'
-dateModified: '2016-03-26T17:29:45.962Z'
+datePublished: '2016-03-26T17:31:24.024Z'
+dateModified: '2016-03-26T17:30:07.151Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
