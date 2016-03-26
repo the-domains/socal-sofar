@@ -4,7 +4,7 @@
         <description><![CDATA[SoCal.. SoFar]]></description>
         <link>http://socalsofar.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 17:46:31 GMT</lastBuildDate>
         <atom:link href="http://socalsofar.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[good morning! #SoCalSoFar]]></title>
@@ -12,6 +12,13 @@
             <link>https://instagram.com/p/6KbyBovRUa/?taken-by=iade.c</link>
             <guid isPermaLink="false">d2212608-1651-4f2f-99ee-ca017bf60f0d</guid>
             <pubDate>Mon, 11 Jan 2016 19:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SoCal LastCall]]></title>
+            <description><![CDATA[<article><h1>SoCal LastCall</h1><p>This is actually a nice bar in a hidden hotel, so never seems busy. The Westin South Coast Plaza (686 Anton Boulevard · Costa Mesa, CA 92626 - http://www.westinsouthcoastplaza.com) is right next to the Arts Center in South Coast Metro. A nice quiet bar at the weekends to unwind and escape. Whether its the fountain wall in the garden, or the cool little vessels as you get to last orders.. for some reason I really like this place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16340e55de37bf2d226aa7cfa4cbca8d4f4a91a5.jpg"></article>]]></description>
+            <link>https://instagram.com/p/1FSDOCPRQY/?taken-by=iade.c</link>
+            <guid isPermaLink="false">8b994a7f-5f16-4f5a-86d8-f1baab6d4de6</guid>
+            <pubDate>Sat, 26 Mar 2016 17:45:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#3Thirty3]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BCmN79ivRQy/?taken-by=iade.c</link>
             <guid isPermaLink="false">f723406c-05ed-4ef6-b34a-27dd301c75fa</guid>
             <pubDate>Sat, 26 Mar 2016 17:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#socalsofar #oscars #wheresthefood?]]></title>
-            <description><![CDATA[<article><h1>#socalsofar #oscars #wheresthefood?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/977baf696d8bc1d69fe18c751c570b22f29225ce.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCWPprmPRe8/?taken-by=iade.c</link>
-            <guid isPermaLink="false">ef5a6adb-d21a-4988-bc0f-c0e0202baff4</guid>
-            <pubDate>Sat, 12 Mar 2016 18:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
