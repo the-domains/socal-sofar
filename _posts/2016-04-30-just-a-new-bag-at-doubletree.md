@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BE0FBqEPRc3/?taken-by=iade.c'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T21:55:40.624Z'
-dateModified: '2016-04-30T21:55:08.817Z'
+datePublished: '2016-04-30T21:58:28.062Z'
+dateModified: '2016-04-30T21:57:59.120Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -29,6 +29,8 @@ app_links:
     namespace: google
     type: android
 title: 'Just a new bag at #doubletree'
+sourcePath: _posts/2016-04-30-just-a-new-bag-at-doubletree.md
+published: true
 authors: []
 publisher:
   name: Instagram
@@ -36,8 +38,6 @@ publisher:
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 starred: false
-sourcePath: _posts/2016-04-30-just-a-new-bag-at-doubletree.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
