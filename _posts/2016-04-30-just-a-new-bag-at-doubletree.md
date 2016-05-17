@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BE0FBqEPRc3/?taken-by=iade.c'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T22:03:44.990Z'
-dateModified: '2016-04-30T21:58:36.193Z'
+datePublished: '2016-05-17T23:18:19.489Z'
+dateModified: '2016-04-30T22:03:53.953Z'
 author:
   - name: iade.c
     url: 'https://www.instagram.com/iade.c'
@@ -30,7 +30,6 @@ app_links:
     type: android
 title: 'Just a new bag at #doubletree'
 sourcePath: _posts/2016-04-30-just-a-new-bag-at-doubletree.md
-published: true
 authors: []
 publisher:
   name: Instagram
