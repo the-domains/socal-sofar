@@ -6,11 +6,11 @@ isBasedOnUrl: 'https://www.instagram.com/p/BE0FBqEPRc3/?taken-by=iade.c'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T02:16:10.491Z'
-dateModified: '2016-05-18T02:16:09.466Z'
+datePublished: '2016-05-18T02:17:42.069Z'
+dateModified: '2016-05-18T02:17:07.604Z'
 author:
-  - name: iade.c
-    url: 'https://www.instagram.com/iade.c'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links:
@@ -41,4 +41,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Just a new bag at #doubletree](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13108782_857547271021532_1076148759_n.jpg?ig_cache_key=MTIzOTYzNzkwMTU1NDAzMDM5MQ%3D%3D.2)
+![Just a new bag at #doubletree](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e57e169e9023779fa9deaadddca6e1bbae743e16.jpg)
