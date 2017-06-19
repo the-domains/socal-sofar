@@ -1,29 +1,73 @@
-layout_spectrum: 0.904984075576067
-typography_spectrum: 0.8692683286499232
+layout_spectrum: 0.33878799113555635
+typography_spectrum: 0.1292165852334387
 color:
   brandColors:
-    - '#f4f2ee'
-    - '#faf8f2'
-    - '#fdfcf9'
-    - '#efece9'
-    - '#ffffff'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.25
-name: SoCal.. SoFar
-favicon: null
-title: SoCal.. SoFar
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71876927-1
-  facebook: null
-  twitter: null
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+  brandStrength: 0.034601059264807714
+  lightness: 0.8913817971535396
+  saturation: 0.954387283504083
+  rhythmicContrast: 0.7348180670814016
 opengraph:
   image: null
   type: null
   appId: null
-purpose: []
+analytics:
+  google: UA-71876927-1
+  facebook: null
+  twitter: null
+name: SoCal.. SoFar
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: be back in a bit
+    url: 'http://www.bbiab.com'
+    type: external
+  - name: snap!
+    url: 'https://www.instagram.com/iade.c/'
+    type: external
+  - name: KTLA news..
+    url: 'http://ktla.com/on-air/live-streaming/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ef0a221-0879-41c4-91d1-0d9db9c1e3a0.ico
+title: 'SoCal.. SoFar.. '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b744f77-ef1e-4032-b9c0-0dadc1f92486.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b744f77-ef1e-4032-b9c0-0dadc1f92486.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ..just life in Southern California..
+purpose:
+  - type: contact
+    url: 'mailto:info@socalsofar.com'
+    label: Contact Us..
+  - type: internal
+    label: Latest weather..
+    item: e4cfc4a2-1b72-4ee7-8a90-973a5e239e72
+github: true
